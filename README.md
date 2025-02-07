@@ -154,3 +154,9 @@ If you are using HumanML3D dataset, please consider citing the following papers:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EricGuo5513/HumanML3D&type=Date)](https://star-history.com/#EricGuo5513/HumanML3D&Date)
+
+# Environment Setting
+
+pytorch cu124 -> not work (torch has no attribute 'version')
+
+pytorch cu118 -> work

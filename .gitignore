@@ -1,1 +1,7 @@
 .venv/
+__pycache__/
+/amass_data/*
+/pose_data/*
+!/pose_data/humanact12.zip
+/joints/*
+/body_models/*
