@@ -5,3 +5,10 @@ __pycache__/
 !/pose_data/humanact12.zip
 /joints/*
 /body_models/*
+
+/HumanML3D/new_joints/
+/HumanML3D/new_joint_vecs/
+/HumanML3D/texts/
+/HumanML3D/animations/
+
+/HumanML3D
